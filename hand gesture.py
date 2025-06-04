@@ -3,7 +3,7 @@ import math
 import re
 import threading
 import time
-import tkinter as tk
+import tkinter as ttk
 from collections import deque
 from dataclasses import dataclass
 from tkinter import ttk
